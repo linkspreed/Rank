@@ -1,3 +1,26 @@
+1.5.0 — 24 June 2022
+
+Added new payment gateway: Paystack (checkout using a credit card)
+Added new payment gateway: Razorpay (checkout using a credit card)
+Added new payment gateway: Crypto.com (checkout using a cryptocurrency)
+Added new SEO report test: Server signature
+Added new SEO report test: Mixed content
+Added new SEO report test: Unsafe cross-origin links
+Added new Tool: Color Converter
+Added new Tool: URL Parser
+Added new Tool: UUID Generator
+Added Two-factor Authentication system
+Added Webhooks on User Store, Update, and Delete events
+Added the ability to add both light and dark mode logos
+Added the ability to create coupons with unlimited quantity number
+Improved the Http Requests SEO report test: video and audio requests are now included
+Improved the dark mode
+Updated all the dependencies to their latest versions
+Fixed an issue that could cause Payments and Invoices to be duplicated
+Fixed an issue that would immediately remove the User's plan features after cancellation
+Fixed an issue preventing the Admin to regenerate the Cron jobs key
+Other minor improvements
+
 1.4.0 - 21 April 2022
 
 Added Keyword Research Tool
