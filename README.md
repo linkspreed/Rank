@@ -4,8 +4,8 @@ Rank - The invincible SEO💚 tool for developers 🧑‍💻 and internet users
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🌱](https://github.com/linkspreed/rank/blob/main/changelog.md)** **Check out the full Rank changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/rank/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Rank besides development**
 
 
 <div align="center">
