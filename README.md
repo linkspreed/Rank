@@ -1,6 +1,6 @@
 # <img align="left" alt="Rank" width="40px" src="https://rank.ga/uploads/brand/46QmWwRNlfRggiZvDR2x5aRtiVKM09sCsTp7l34A.png" draggable="false" /> Rank ([Click to try 🚀](https://rank.ga/))
 
-Rank 📈 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Rank - The invincible SEO💚 tool for developers 🧑‍💻 and internet users 📈.
 
 
 
