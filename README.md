@@ -15,38 +15,74 @@ Rank - The invincible SEO💚 tool for developers 🧑‍💻 and internet users
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+**DASHBOARD** – Get the account overview at a glance. Quickly manage your latest or underperforming Reports.
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
+REPORTS – Manage the SEO reports and get insightful results:
+SEO
+Title
+Meta description
+Headings
+Content keywords
+Image keywords
+SEO friendly URL
+404 page
+Robots.txt
+Noindex
+In-page links
+Language
+Favicon
+Performance
+Text compression
+Load time
+Page size
+HTTP requests
+Image format
+Javascript defer
+DOM size
+Security
+HTTPS encryption
+Mixed content
+Server signature
+Unsafe cross-origin links
+Plaintext email
+Miscellaneous
+Structured data
+Meta viewport
+Character set
+Sitemap
+Social
+Content length
+Text to HTML ratio
+Inline CSS
+Deprecated HTML
+PROJECTS – Manage the projects and view their health status.
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+TOOLS – Web tools and utilities:
+SERP checker tool
+Indexed pages checker tool
+Keyword research tool
+Website status checker tool
+SSL checker tool
+WHOIS lookup tool
+DNS lookup tool
+IP lookup
+Password generator
+JS minifier tool
+CSS minifier tool
+HTML minifier tool
+QR generator
+User-Agent lookup
+MD5 generator
+Color converter
+URL parser
+UUID generator
+Text to slug
+Case converter
+Word counter
+Lorem ipsum generator
+URL converter
+Base64 converter
+EXPORT – Print or export Reports as PDF, or export the Account Overview in CSV format.
 
 **AND SO MUCH MORE ...**
 
