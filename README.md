@@ -107,13 +107,13 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Professional SEO reports and tools
-<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Complete solution
-<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Advanced reports
-<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Export
-<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Rank" width="3000px" src="https://github.com/linkspreed/Rank/blob/main/Screenshots/4.PNG" draggable="false" />
