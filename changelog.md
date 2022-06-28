@@ -1,4 +1,4 @@
-1.5.0 — 24 June 2022
+# 1.5.0 — 24 June 2022
 
 Added new payment gateway: Paystack (checkout using a credit card)
 Added new payment gateway: Razorpay (checkout using a credit card)
@@ -21,7 +21,7 @@ Fixed an issue that would immediately remove the User's plan features after canc
 Fixed an issue preventing the Admin to regenerate the Cron jobs key
 Other minor improvements
 
-1.4.0 - 21 April 2022
+# 1.4.0 - 21 April 2022
 
 Added Keyword Research Tool
 Added the ability to fetch sitemap links that are not necessarily ending with XML format
@@ -34,7 +34,7 @@ Fixed an issue causing external resources to be linked as an internal resources 
 Other minor improvements
 
 
-1.3.0 - 4 March 2022
+# 1.3.0 - 4 March 2022
 
 Added Sitemap Crawling capability
 Added Proxy support for the external requests of Reports and Tools
@@ -54,7 +54,7 @@ Fixed an issue that would prevent generating reports when image names would cont
 Other minor improvements
 
 
-1.2.0 - 1 February 2022
+# 1.2.0 - 1 February 2022
 
 Added SERP Checker Tool
 Added Indexed Pages Checker Tool
@@ -71,7 +71,7 @@ Fixed the Lorem Ipsum generator copy button not working
 Other minor improvements
 
 
-1.1.0 - 18 January 2022
+# 1.1.0 - 18 January 2022
 
 Added Projects section
 Added Tools section
@@ -98,6 +98,6 @@ Fixed the API Documentation URL path not pointing to the correct location
 Other minor improvements
 
 
-1.0.0 - 8 January 2022
+# 1.0.0 - 8 January 2022
 
 Initial release
