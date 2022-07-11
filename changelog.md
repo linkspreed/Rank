@@ -1,3 +1,9 @@
+# 1.6.0 — 11 July 2022
+ - Fixed the Copy button from SERP Checker Tool not working
+ - Fixed the Webhook fields
+ - Fixed minimum requirements
+ - Other minor improvements
+
 # 1.5.0 — 24 June 2022
 
  - Added new SEO report test: Server signature
