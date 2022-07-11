@@ -1,3 +1,6 @@
+# 11.07.2022
+ - Today we release the new version 1.6 of Rank.
+
 # 28.06.2022
  - Rank now uses the free API version of Thum.io to generate the screenshots of the pages.
 
