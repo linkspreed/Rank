@@ -1,3 +1,10 @@
+# 1.7.0 — 27 July 2022
+ - Added new Tool: Word Density Counter
+ - Added new Tool: Tag Remover
+ - Added new Tool: Text Reverser
+ - Improved the cron jobs system
+ - Other minor improvements
+
 # 1.6.0 — 11 July 2022
  - Fixed the Copy button from SERP Checker Tool not working
  - Fixed the Webhook fields
