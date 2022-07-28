@@ -1,3 +1,6 @@
+# 28.07.2022
+ - Rank is on the new version v1.7.0
+
 # 27.07.2022
  - We will release a new update (1.7.0) for Rank.
 
