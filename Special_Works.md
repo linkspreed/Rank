@@ -1,3 +1,6 @@
+# 02.09.2022
+ - We do a few small checks on Rank and see how user-friendly the platform is.
+
 # 28.07.2022
  - Rank is on the new version v1.7.0
 
