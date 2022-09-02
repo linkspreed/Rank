@@ -1,4 +1,7 @@
 # 02.09.2022
+ - Everything works flawlessly on Rank and the platform passed our test with a very good rating.
+
+# 02.09.2022
  - We do a few small checks on Rank and see how user-friendly the platform is.
 
 # 28.07.2022
