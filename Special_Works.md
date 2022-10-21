@@ -1,3 +1,6 @@
+### 21.10.2022 (announcement Rank)
+- We will update **Rank** to version 1.8.0.
+
 # 02.09.2022
  - Everything works flawlessly on Rank and the platform passed our test with a very good rating.
 
