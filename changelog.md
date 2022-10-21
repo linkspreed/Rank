@@ -1,3 +1,23 @@
+# 1.8.0 — 21 October 2022
+ - Added Tools feature section on the Home page
+ - Added Search functionality to the Tools section
+ - Added Related Tools section on every Tool page
+ - Added the ability to enable the Tools to be used by Guest users
+ - Added new Tool: Domain IP Lookup
+ - Added new Tool: Reverse IP Lookup
+ - Added new Tool: Redirect Checker
+ - Added new Tool: IDN Converter
+ - Added new Tool: UTM Builder
+ - Added new Tool: JSON Validator
+ - Added new Tool: Binary Converter
+ - Added new Tool: Text Replacer
+ - Added new Tool: Number Generator
+ - Improved accessibility on SEO reports (passed tests are now marked with a checkmark)
+ - Improved the Tag Remover Tool (now Text cleaner): added spaces and line breaks cleaners
+ - Improved the API key length (increased to 64 characters)
+ - Fixed parsing image links when fetching sitemaps
+ - Other minor improvements
+
 # 1.7.0 — 27 July 2022
  - Added new Tool: Word Density Counter
  - Added new Tool: Tag Remover
