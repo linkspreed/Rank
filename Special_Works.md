@@ -1,4 +1,7 @@
 ### 30.12.2022 (announcement Rank)
+- We are now starting the launch of v1.9.0.
+
+### 30.12.2022 (announcement Rank)
 - The servers are now ready for the launch of version 1.9.0 for **Rank**.
 
 ### 30.12.2022 (announcement Rank)
