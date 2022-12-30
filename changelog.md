@@ -1,3 +1,21 @@
+# 1.9.0 — 30 December 2022
+ - Added new Plan feature: Branded Reports
+ - Added new Plan feature: White-label Reports
+ - Added new Plan feature: Research Tools
+ - Added new Plan feature: Developer Tools
+ - Added new Plan feature: Content Tools
+ - Added new Plan feature: Data Export
+ - Added new Plan feature: API
+ - Added translation ability for the Announcements content
+ - Improved the Reports Export functionality (added the ID column to the exported data)
+ - Improved the Cron Job command (added additional parameter to prevent file creation on some servers)
+ - Updated all the dependencies to their latest versions
+ - Fixed several elements not being rendered correctly while on Dark Mode
+ - Fixed the Copy button for the Lorem Ipsum Generator Tool not working
+ - Fixed an issue when submitting empty data to the HTML, JS and CSS minifier Tools
+ - Fixed an issue preventing pages from being fetched when a BOM character was present
+ - Other minor improvements
+
 # 1.8.0 — 21 October 2022
  - Added Tools feature section on the Home page
  - Added Search functionality to the Tools section
