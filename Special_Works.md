@@ -1,4 +1,7 @@
 ### 30.12.2022 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch v1.9.0. 😍
+
+### 30.12.2022 (announcement Rank)
 - We're about to finish writing the code for **Rank** v1.9.0.  :D
 
 ### 21.10.2022 (announcement Rank)
