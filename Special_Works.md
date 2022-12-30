@@ -1,4 +1,9 @@
 ### 30.12.2022 (announcement Rank)
+- The launch of version 1.9.0 of **Rank** was successful! 🥳
+- The new update is live now :)
+- https://rank.ga 🔗
+
+### 30.12.2022 (announcement Rank)
 - We are now starting the launch of v1.9.0.
 
 ### 30.12.2022 (announcement Rank)
