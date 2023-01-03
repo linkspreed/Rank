@@ -1,4 +1,7 @@
 ### 03.01.2023 (announcement Rank)
+- We are now starting the launch of 1.9.1.
+
+### 03.01.2023 (announcement Rank)
 - The servers are now ready for the launch of version 1.9.1 for **Rank**.
 
 ### 03.01.2023 (announcement Rank)
