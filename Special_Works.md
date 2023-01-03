@@ -1,4 +1,7 @@
 ### 03.01.2023 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch 1.9.1. 😍
+
+### 03.01.2023 (announcement Rank)
 - We're working on **Rank**!
 
 ### 30.12.2022 (announcement Rank)
