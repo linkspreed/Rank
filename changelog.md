@@ -1,3 +1,7 @@
+# 1.9.1 — 03 January 2023
+- Fixed some minor bugs
+- Fixed some design improvements
+
 # 1.9.0 — 30 December 2022
  - Added new Plan feature: Branded Reports
  - Added new Plan feature: White-label Reports
