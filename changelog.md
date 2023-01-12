@@ -1,3 +1,7 @@
+# 1.9.4 — 12 January 2023
+- Fixed some minor bugs
+- Fixed some design improvements
+
 # 1.9.3 — 07 January 2023
 - Fixed some minor bugs
 - Fixed some design improvements
