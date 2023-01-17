@@ -1,4 +1,4 @@
-# 2.0.0 — 15 January 2023
+# 2.0.0 — 17 January 2023
 - Improved the UI for the Pricing Plans
 - Fixed the UTM Builder Tool requiring all fields to be present when generating an URL
 - Fixed the non white-label reports having wrong URL value when printing or saving the reports
