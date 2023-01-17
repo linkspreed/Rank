@@ -1,3 +1,6 @@
+### 17.01.2023  (announcement Rank)
+- We are now starting the launch of v2.0.0 .
+
 ### 17.01.2023 (announcement Rank)
 - The servers are now ready for the launch of version 2.0.0 for **Rank**.
 
