@@ -1,3 +1,6 @@
+### 17.01.2023 (announcement Rank)
+-  **Rank** gets a big update today - we are going to launch v2.0.0 . 😍
+
 ### 12.01.2023 (announcement Rank)
 - https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
