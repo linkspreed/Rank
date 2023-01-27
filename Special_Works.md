@@ -1,4 +1,7 @@
 ### 27.01.2023 (announcement Rank)
+- The servers are now ready for the launch of version 2.0.1 for **Rank**.
+
+### 27.01.2023 (announcement Rank)
 - The code is now ready for the launch of version 2.0.1 for **Rank**.
 
 ### 27.01.2023 (announcement Rank)
