@@ -1,4 +1,8 @@
 ### 27.01.2023 (announcement Rank)
+- https://github.com/linkspreed/Rank/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 27.01.2023 (announcement Rank)
 - The launch of version 2.0.1 of **Rank** was successful! 🥳
 - The new update is live now :)
 - https://rank.ga 🔗
