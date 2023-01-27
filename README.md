@@ -1,17 +1,13 @@
-# <img align="left" alt="Rank" width="100px" src="https://rank.ga/uploads/brand/HoYFBztaZDPzuJ3Kzk9UyIdaBpZx8kEOs8tsKG65.png" draggable="false" /> Rank ([Click to try 🚀](https://rank.ga/)) (v2.0.0)
+# <img align="left" alt="Rank" width="100px" src="https://rank.ga/uploads/brand/HoYFBztaZDPzuJ3Kzk9UyIdaBpZx8kEOs8tsKG65.png" draggable="false" /> Rank ([Click to try 🚀](https://rank.ga/)) (v2.0.1)
 
 Rank - The invincible SEO💚 tool for developers 🧑‍💻 and internet users 📈.
-
-
 
 ## **[Changelog 🌱](https://github.com/linkspreed/rank/blob/main/changelog.md)** **Check out the full Rank changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/rank/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Rank besides development**
 
-
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
 
 ## Features
 
