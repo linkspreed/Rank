@@ -1,4 +1,7 @@
 ### 27.01.2023 (announcement Rank)
+- The code is now ready for the launch of version 2.0.1 for **Rank**.
+
+### 27.01.2023 (announcement Rank)
 -  **Rank** gets a big update today - we are going to launch v2.0.1. 😍
 
 ### 17.01.2023 (announcement Rank)
