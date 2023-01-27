@@ -1,3 +1,7 @@
+# 2.0.1 — 27 January 2023
+- Fixed some minor bugs
+- Fixed some design improvements
+
 # 2.0.0 — 17 January 2023
 - Improved the UI for the Pricing Plans
 - Fixed the UTM Builder Tool requiring all fields to be present when generating an URL
