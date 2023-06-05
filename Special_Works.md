@@ -1,3 +1,9 @@
+### 05.06.2023 (announcement Rank)
+- 🎉Happy News!🎉 Rank platform is now back online and can be accessed through the domain https://rank.linkspreed.com. 💻 Excited to see what new features they have added.🤔 Have you checked it out yet?👀 #RankPlatform #OnlineAgain #NewFeatures #EngageWithUs
+
+### 05.06.2023 (announcement Rank)
+- 🚨 ALERT 🚨 Due to the deletion of 7 million TLD domains .ga, our beloved Rank Platform is temporarily offline. Fear not, our team is working hard to get us back up and running. Stay tuned for updates on Github.
+
 ### 27.01.2023 (announcement Rank)
 - https://github.com/linkspreed/Rank/blob/main/changelog.md
 - The entire changelog is now available on Github.
