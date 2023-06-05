@@ -1,4 +1,4 @@
-# <img align="left" alt="Rank" width="100px" src="https://rank.ga/uploads/brand/HoYFBztaZDPzuJ3Kzk9UyIdaBpZx8kEOs8tsKG65.png" draggable="false" /> Rank ([Click to try 🚀](https://rank.ga/)) (v2.0.1)
+# <img align="left" alt="Rank" width="100px" src="https://rank.linkspreed.com/uploads/brand/HoYFBztaZDPzuJ3Kzk9UyIdaBpZx8kEOs8tsKG65.png" draggable="false" /> Rank ([Click to try 🚀](https://rank.linkspreed.com/)) (v2.0.1)
 
 Rank - The invincible SEO💚 tool for developers 🧑‍💻 and internet users 📈.
 
